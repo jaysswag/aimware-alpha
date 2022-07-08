@@ -155,9 +155,9 @@ local library = {
 	windows = {},
     pointers = {},
     settings = {
-        guiname = "Hexagon",
-		title = "Hexagon [Exodus Edition]",
-		logo = "rbxassetid://4350178803", -- "http://www.roblox.com/asset/?id=10156242321",
+        guiname = "Aimware",
+		title = "Aimware",
+		logo = "rbxassetid://10156242333", -- "http://www.roblox.com/asset/?id=10156242321",
         footer = " Aimware $$$",
         modal = true,
         font = Enum.Font.SourceSans,
