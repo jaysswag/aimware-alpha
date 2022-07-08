@@ -157,7 +157,7 @@ local library = {
     settings = {
         guiname = "Aimware",
 		title = "Aimware",
-		logo = "rbxassetid://10156242333", -- "http://www.roblox.com/asset/?id=10156242321",
+		logo = "rbxassetid://10156242321", -- "http://www.roblox.com/asset/?id=10156242321",
         footer = " Aimware $$$",
         modal = true,
         font = Enum.Font.SourceSans,
